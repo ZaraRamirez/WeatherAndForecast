@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.containerLeft {
+    font-family: 'Capriola', sans-serif;
+    font-weight: 600;
+}
+
+.containerRight{
+    font-family: 'Signika', sans-serif;
+}
+
+.textBody{
+    font-family: 'Signika', sans-serif;
+}
